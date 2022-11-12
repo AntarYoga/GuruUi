@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-guruui-dev-170233-authRole",
+      "UnauthRoleArn": "arn:aws:iam::852605610984:role/amplify-guruui-dev-170233-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::852605610984:role/amplify-guruui-dev-170233-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-guruui-dev-170233-deployment",
+      "UnauthRoleName": "amplify-guruui-dev-170233-unauthRole",
+      "StackName": "amplify-guruui-dev-170233",
+      "StackId": "arn:aws:cloudformation:us-west-2:852605610984:stack/amplify-guruui-dev-170233/b16e6ef0-6225-11ed-8bce-0a3fc127317d",
+      "AmplifyAppId": "d11oro3wykc8ez"
+    },
+    "categories": {
+      "auth": {
+        "guruui5cc33904": {}
+      }
+    }
+  }
+}
